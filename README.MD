@@ -12,6 +12,10 @@
 
 ## Preview
 
+#### Video
+
+- [YouTube](https://www.youtube.com/watch?v=BxgXeTcIDvI)
+
 #### Images
 
 <p><img src="screenshot/00-initialize.PNG" width="32%" />
@@ -26,7 +30,3 @@
 <img src="screenshot/07-result2.PNG" width="32%" />
 <img src="screenshot/07-result3.PNG" width="32%" />
 <img src="screenshot/07-result4.PNG" width="32%" /></p>
-
-#### Video
-
-- [YouTube](https://www.youtube.com/watch?v=BxgXeTcIDvI)
