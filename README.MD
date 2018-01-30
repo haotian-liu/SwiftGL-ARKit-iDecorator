@@ -18,8 +18,8 @@
 
 #### Images
 
-<p><img src="screenshot/00-initialize.PNG" width="32%" />
-<img src="screenshot/01-loading.PNG" width="32%" />
+<p><img src="screenshot/00-loading.PNG" width="32%" />
+<img src="screenshot/01-initialize.PNG" width="32%" />
 <img src="screenshot/02-scan.PNG" width="32%" />
 <img src="screenshot/03-tap.PNG" width="32%" />
 <img src="screenshot/04-pinch.PNG" width="32%" />
