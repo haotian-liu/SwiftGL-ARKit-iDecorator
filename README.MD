@@ -24,8 +24,8 @@
 <img src="screenshot/07-result0.PNG" width="32%" />
 <img src="screenshot/07-result1.PNG" width="32%" />
 <img src="screenshot/07-result2.PNG" width="32%" />
-<img src="screenshot/07-result3.PNG" width="48%" />
-<img src="screenshot/07-result4.PNG" width="48%" /></p>
+<img src="screenshot/07-result3.PNG" width="32%" />
+<img src="screenshot/07-result4.PNG" width="32%" /></p>
 
 #### Video
 
